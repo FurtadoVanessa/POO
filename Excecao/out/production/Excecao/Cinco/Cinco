@@ -1,0 +1,4 @@
+5)a) Ao colocar o valor 2,04, ao inves de 2.04, ele reconhecerá como dois parâmetros ao invés de um número, caindo então
+em excessão
+b) Para resolver o caso acima, poderia verificar os caracteres da String se consiste em algum caracter diferente de número
+e de ponto. Se for diferente, tem que ser tratado.

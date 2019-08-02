@@ -1,0 +1,79 @@
+6)a) Entrada 0
+a = 0
+b = 0
+c = 1
+d = 1
+f = 0
+g = 1
+x = 0
+
+a) Entrada 1
+a = 0
+b = 1
+c = 1
+d = 0
+f = 0
+g = 1
+x = 1
+
+a) Entrada 2
+a = 0
+b = 0
+c = 1
+d = 0
+f = 1
+g = 1
+x = 2
+
+a) Entrada 3
+a = 0
+b = 0
+c = 1
+d = 0
+e = 0
+f = 1
+g = 1
+x = 3
+
+a) Entrada 4
+a = 1
+b = 0
+c = 1
+d = 0
+e = 0
+f = 0
+g = 1
+x = 4
+
+b) Entrada 0
+falha: IllegalArgumentException não é tratada
+
+b) Entrada 1
+trata segundo
+Saiu segundo
+Apos primeiro
+saiu primeiro
+
+b) Entrada 2
+trata terceiro
+saiu terceiro
+depois segundo
+Saiu segundo
+Apos primeiro
+saiu primeiro
+
+b) Entrada 3
+depois switch
+saiu terceiro
+depois segundo
+Saiu segundo
+Apos primeiro
+saiu primeiro
+
+b) Entrada 4
+depois switch
+saiu terceiro
+depois segundo
+Saiu segundo
+Apos primeiro
+saiu primeiro

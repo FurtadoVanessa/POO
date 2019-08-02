@@ -1,0 +1,3 @@
+Com a obirgatoriedade da descrição dos tipos de exceção, se tem definido quais são as possíveis exceções a serem lançadas,
+porém, pode acontecer de outras exceções não previstas aconteceram, prejudicando o código. Com o lançamento livre de exceções,
+pode-se lidar com mais erros, porém, pode-se perder o controle das exceções lançadas.

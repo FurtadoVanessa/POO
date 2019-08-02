@@ -1,0 +1,5 @@
+mem_pri_size = 1
+mem_pri_unid = MB
+mem_cache_size = 16
+mem_cache_unid = KB
+mem_cache_block = 3
